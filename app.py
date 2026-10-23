@@ -1,3 +1,4 @@
+# KR2: Kudravceva
 import os
 import socket
 
